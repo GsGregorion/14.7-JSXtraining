@@ -1,7 +1,7 @@
 var contacts = [
   {
     id: 1,
-    firstName: 'Tadeusz',
+    firstName: 'Kazimierz',
     lastName: 'Nowak',
     email: 'jan.nowak@example.com',
   },
